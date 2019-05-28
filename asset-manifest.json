@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Simple-Post-Comment/static/css/main.7cab0000.chunk.css",
-    "main.js": "/Simple-Post-Comment/static/js/main.a01e936c.chunk.js",
-    "main.js.map": "/Simple-Post-Comment/static/js/main.a01e936c.chunk.js.map",
+    "main.js": "/Simple-Post-Comment/static/js/main.f79d32f3.chunk.js",
+    "main.js.map": "/Simple-Post-Comment/static/js/main.f79d32f3.chunk.js.map",
     "runtime~main.js": "/Simple-Post-Comment/static/js/runtime~main.6d432ec6.js",
     "runtime~main.js.map": "/Simple-Post-Comment/static/js/runtime~main.6d432ec6.js.map",
     "static/js/2.68d61d40.chunk.js": "/Simple-Post-Comment/static/js/2.68d61d40.chunk.js",
     "static/js/2.68d61d40.chunk.js.map": "/Simple-Post-Comment/static/js/2.68d61d40.chunk.js.map",
     "index.html": "/Simple-Post-Comment/index.html",
-    "precache-manifest.18c9fb6f7d63f2386b699f0f1aeee742.js": "/Simple-Post-Comment/precache-manifest.18c9fb6f7d63f2386b699f0f1aeee742.js",
+    "precache-manifest.66c21348082b3347bee36f3c9a25ca82.js": "/Simple-Post-Comment/precache-manifest.66c21348082b3347bee36f3c9a25ca82.js",
     "service-worker.js": "/Simple-Post-Comment/service-worker.js",
     "static/css/main.7cab0000.chunk.css.map": "/Simple-Post-Comment/static/css/main.7cab0000.chunk.css.map"
   }
