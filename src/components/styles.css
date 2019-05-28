@@ -12,8 +12,7 @@
 }
 
 .commentBox {
-  padding:10px;
-  border-top:1px dotted #bbb;
+  padding: 20px;
 }
 
 .taskDescription {
@@ -23,15 +22,12 @@
 .commentList {
   padding:0;
   list-style:none;
-  max-height:200px;
-  overflow:auto;
 }
 
 .commentList li {
   margin:0;
   margin-top: 15px;
   padding-bottom: 8px;
-  border-bottom: 1px dashed lightgrey;
 }
 
 .commentList li > div {
@@ -89,4 +85,9 @@
   cursor: pointer;
   padding: 20px;
   margin: 5px 10px;
+}
+
+.extraPadding {
+  padding-left: 25px;
+  display: block !important;
 }

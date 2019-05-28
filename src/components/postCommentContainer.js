@@ -12,7 +12,7 @@ export default class PostCommentContainer extends React.PureComponent {
     onShowCommentForm: false,
     newReply: {},
     currentUser: currentUser,
-    lastCommentId: 4
+    lastCommentId: 3
   };
 
   onLike = (commentId) => {
@@ -56,7 +56,7 @@ export default class PostCommentContainer extends React.PureComponent {
       const newComment = {
         content,
         authorId: currentUser.id,
-        time: new Date(),
+        time: (new Date()).toLocaleString(),
         likes: 0,
         dislikes: 0,
         subCommentIds: [],
